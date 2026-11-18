@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"circle_mid",
+  "closed":true,
+  "kind":1,
+  "name":"circle_mid",
+  "parent":{
+    "name":"paths",
+    "path":"folders/paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":351.0,"y":-128.0,},
+    {"speed":100.0,"x":222.5,"y":-195.5,},
+    {"speed":100.0,"x":95.0,"y":-127.0,},
+    {"speed":100.0,"x":29.5,"y":-0.5,},
+    {"speed":100.0,"x":97.0,"y":128.0,},
+    {"speed":100.0,"x":224.5,"y":192.5,},
+    {"speed":100.0,"x":353.0,"y":127.0,},
+    {"speed":100.0,"x":419.0,"y":-1.0,},
+  ],
+  "precision":8,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}

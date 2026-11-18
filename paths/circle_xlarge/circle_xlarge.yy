@@ -1,0 +1,24 @@
+{
+  "$GMPath":"",
+  "%Name":"circle_xlarge",
+  "closed":true,
+  "kind":1,
+  "name":"circle_xlarge",
+  "parent":{
+    "name":"paths",
+    "path":"folders/paths.yy",
+  },
+  "points":[
+    {"speed":100.0,"x":446.0,"y":-224.0,},
+    {"speed":100.0,"x":224.5,"y":-318.5,},
+    {"speed":100.0,"x":1.0,"y":-224.0,},
+    {"speed":100.0,"x":-93.5,"y":2.5,},
+    {"speed":100.0,"x":0.0,"y":223.0,},
+    {"speed":100.0,"x":224.5,"y":317.5,},
+    {"speed":100.0,"x":450.0,"y":223.0,},
+    {"speed":100.0,"x":547.0,"y":-1.0,},
+  ],
+  "precision":8,
+  "resourceType":"GMPath",
+  "resourceVersion":"2.0",
+}
